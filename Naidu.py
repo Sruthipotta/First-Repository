@@ -1,3 +1,3 @@
-def sub(A, B):
-    return A+B
-sub(10, 10)
+def sub(X, Y):
+    return 10 + 10
+sub()
