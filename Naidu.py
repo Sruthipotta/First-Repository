@@ -1,3 +1,3 @@
 def sub(X, Y):
     return 10 + 10
-sub()
+sub(50,50)
