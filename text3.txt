@@ -2,3 +2,4 @@ def func(x,y):
 	return a-b
 print(func(5,10))
 print(func(50,40))
+print(func(6,2))
