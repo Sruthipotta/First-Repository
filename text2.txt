@@ -6,3 +6,4 @@ print(func(10,8))
 print(a)
 
 print(hello)
+print(Hi)
