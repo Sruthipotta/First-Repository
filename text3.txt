@@ -3,3 +3,5 @@ def func(x,y):
 print(func(5,10))
 print(func(50,40))
 print(func(6,2))
+
+print(Hi)
