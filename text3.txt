@@ -1,0 +1,3 @@
+def func(x,y):
+	return a-b
+print(func(5,10))
